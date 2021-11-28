@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @stefanogrippa
-- 👀 I’m interested in Python and matlab and C++
-- 🌱 I’m currently working in C++ and learning Python and matlab
+- 👋 Hi, I’m @stefanogrippa: Stefano Grippa
+- 👀 I’m interested in c++ and also modern c++. also experimenting Python and matlab and R
+- 🌱 I’m currently working in C++, the main part of my professional experience is on it; also worked on pl-sql and html/css/js
 - 💞️ I’m looking to collaborate
-- I am studying applications of c++ python and matlab to quant finance
+- I have been studying recently quantitative finance (performed an executive path at MIP Politecnico di Milano on quant finance) and so software applications are welcome. Also interested to machine learning
 - 📫 How to reach me stefanog1973@gmail.com
 
 <!---
